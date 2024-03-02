@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">app02</string>
+    <string name="btn_Calcular">Calcular</string>
+    <string name="iniciar_zerado">0</string>
+    <string name="numero">Número</string>
+    <string name="resultado">Resultado</string>
+<string-array name="op">
+    <item>+</item>
+    <item>-</item>
+    <item>/</item>
+    <item>x</item>
+    </string-array>
+</resources>
