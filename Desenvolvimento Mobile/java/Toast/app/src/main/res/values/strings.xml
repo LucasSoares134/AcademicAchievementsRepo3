@@ -1,0 +1,12 @@
+<resources>
+
+
+
+    <string name="app_name">Toast</string>
+    <string name="TextVazio"></string>
+    <string name="MensCurta">Mensagem Curta</string>
+    <string name="MensLonga">Mensagem Longa</string>
+    <string name="MensPers">Mensagem Personalizada</string>
+
+
+</resources>
