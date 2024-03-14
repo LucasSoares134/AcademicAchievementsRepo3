@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Enviar e Receber Dados</string>
+    <string name="enviar">Enviar Dados</string>
+    <string name="escolherCor">Escolher Cor</string>
+    <string name="escolherTamanho">Escolher Tamanho</string>
+    <string name="retorno">Retorno</string>
+</resources>
