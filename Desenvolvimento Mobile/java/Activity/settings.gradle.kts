@@ -13,6 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Activity"
+rootProject.name = "Atividade05CicloDeVida"
 include(":app")
- 
