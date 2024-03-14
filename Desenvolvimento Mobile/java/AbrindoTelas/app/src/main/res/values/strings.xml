@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Abrindo Telas</string>
+    <string name="tela_total">Tela Total</string>
+    <string name="tela_parcial">Tela Parcial</string>
+    <string name="tela_teste">Tela Teste</string>
+</resources>
