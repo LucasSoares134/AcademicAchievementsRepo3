@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProjetoIntentNativas</string>
+
+    <string name="Intent">Intent Nativas</string>
+    <string name="ligacao">FAZER LIGAÇÃO</string>
+    <string name="ctt">VISUALIZAR CONTATOS</string>
+    <string name="cam">ABRIR CÂMERA</string>
+
+
+</resources>
